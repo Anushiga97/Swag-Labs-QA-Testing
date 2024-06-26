@@ -1,4 +1,4 @@
-# Swag Labs QA Testing
+# Swag Labs QA Testing(Automation selenium with python)
 
 This repository contains comprehensive QA testing documentation for the Swag Labs e-commerce website. As part of my role as a QA tester, I have included detailed test case documentation, execution results, bug reports, an automated test script along with instructions to run it, and a summary report.
 
